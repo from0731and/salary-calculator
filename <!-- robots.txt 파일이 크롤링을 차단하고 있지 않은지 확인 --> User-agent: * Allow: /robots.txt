@@ -1,6 +1,0 @@
-<!-- robots.txt 파일이 크롤링을 차단하고 있지 않은지 확인 -->
-User-agent: *
-Allow: /
-
-<!-- robots meta 태그 확인 -->
-<meta name="robots" content="index, follow">
